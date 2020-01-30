@@ -43,3 +43,7 @@ To gather the data necessary for identifying each team, we first went to every m
 ## Conclusion
 
 By taking note of the differences in how each website identifies players and teams, we were able to effectively bring all of the information from each site into one place. Bringing this data into one location will streamline the data gathering process for future research projects.
+
+#### Authors
+
+* Dylan Blechner, Alejandro Pesantez, Davis Showell, Chris Thomas, Ben Wachtel, Preston Klaus, Ian Archer
