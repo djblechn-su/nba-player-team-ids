@@ -12,33 +12,33 @@ To gather the data necessary for identifying each team, we first went to every m
 
 ### NBA_Player_IDs.csv
 
-* BBRefName – player name according to Basketball Reference
-* BBRefLink – player link according to Basketball Reference
-* BBRefID – player ID according to Basketball Reference
-* BBRefBirthDate – player birth date according to Basketball Reference
-* NBAName – player name according to NBA
-* NBALink – player link according to NBA
-* NBAID – player ID according to NBA
-* NBABirthDate – player birth date according to NBA
-* ESPNName – player name according to ESPN (RPM)
-* ESPNLink – player link according to ESPN (RPM)
-* ESPNID – player ID according to ESPN (RPM)
-* ESPNBirthDate – player birth date according to ESPN (RPM)
-* SpotracName – player name according to Spotrac
-* SpotracLink – player link according to Spotrac
-* SpotracID – player ID according to Spotrac
+* _**BBRefName**_ – player name according to Basketball Reference
+* _**BBRefLink**_ – player link according to Basketball Reference
+* _**BBRefID**_ – player ID according to Basketball Reference
+* _**BBRefBirthDate**_ – player birth date according to Basketball Reference
+* _**NBAName**_ – player name according to NBA
+* _**NBALink**_ – player link according to NBA
+* _**NBAID**_ – player ID according to NBA
+* _**NBABirthDate**_ – player birth date according to NBA
+* _**ESPNName**_ – player name according to ESPN (RPM)
+* _**ESPNLink**_ – player link according to ESPN (RPM)
+* _**ESPNID**_ – player ID according to ESPN (RPM)
+* _**ESPNBirthDate**_ – player birth date according to ESPN (RPM)
+* _**SpotracName**_ – player name according to Spotrac
+* _**SpotracLink**_ – player link according to Spotrac
+* _**SpotracID**_ – player ID according to Spotrac
 
 ### NBA_Team_IDs.csv
 
 * _**Season**_ – first year of season (ex. 2019-2020 season would be 2019)
-* *League*	 - NBA or ABA
-* BBRef_Team_Name – team name according to Basketball Reference for given season
-* BBRef_Team_Abbreviation – team abbreviation according to Basketball Reference for given season
-* Current_BBRef_Team_Name – current (2019-2020) team name according to Basketball Reference for given season
-* Current_BBRef_Team_Abbreviation – current (2019-2020) team abbreviation according to Basketball Reference
-* ESPN_Current_Link_ID – current (2019-2020) team link ID according to ESPN
-* NBA_Current_Link_ID – current (2019-2020) team link ID according to NBA
-* Spotrac_Current_Link_ID – current (2019-2020) team link ID according to Spotrac
+* _**League**_	 - NBA or ABA
+* _**BBRef_Team_Name**_ – team name according to Basketball Reference for given season
+* _**BBRef_Team_Abbreviation**_ – team abbreviation according to Basketball Reference for given season
+* _**Current_BBRef_Team_Name**_ – current (2019-2020) team name according to Basketball Reference for given season
+* _**Current_BBRef_Team_Abbreviation**_ – current (2019-2020) team abbreviation according to Basketball Reference
+* _**ESPN_Current_Link_ID**_ – current (2019-2020) team link ID according to ESPN
+* _**NBA_Current_Link_ID**_ – current (2019-2020) team link ID according to NBA
+* _**Spotrac_Current_Link_ID**_ – current (2019-2020) team link ID according to Spotrac
 
 ## Conclusion
 
