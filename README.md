@@ -8,7 +8,7 @@ To scrape player data from each key basketball statistics website (https://stats
 
 To gather the data necessary for identifying each team, we first went to every major basketball statistics website and examined the unique URLs of each team page on their respective websites. Then, we found what parts of the URL make each page unique from each other for the specific websites and logged those changes in excel. For example, the URL for the Los Angeles Clippers on basketball-reference is https://www.basketball-reference.com/teams/LAC/, while the URL for the Los Angeles Lakers is https://www.basketball-reference.com/teams/LAL/. We noted the difference at the end of each URL for each team, so that each URL would be accessible when plugging in the different endings, and did this for each website listed.
 
-## Variables:
+## Variables
 
 ### NBA_Player_IDs.csv
 
