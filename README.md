@@ -46,6 +46,7 @@ By taking note of the differences in how each website identifies players and tea
 
 ### Acknowledgements
 
+* Check out https://syracusesportanalytics.weebly.com/basketball.html for Syracuse Basketball Analytics content.
 * Check out https://syracusesportanalytics.weebly.com/ for Syracuse Sport Analytics content.
 
 #### Authors
